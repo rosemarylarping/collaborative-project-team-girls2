@@ -15,7 +15,7 @@ All members should pull changes from main.
 
 #### 5.2: 
 - [x] @rosemarylarping: first 2 bullet points
-- [ ] @soreyamoumouni: next 2 bullet points
+- [x] @soreyamoumouni: next 2 bullet points
 - [ ] @decci027 will do last bullet point (bullet list of files)
 
 ### 5.3:
