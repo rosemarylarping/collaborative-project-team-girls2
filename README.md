@@ -22,3 +22,7 @@ This project is a collaborative data analysis project completed by our team. The
 ## Helpful R Resources
 
 - [ModernDive: Statistical Inference via Data Science](https://moderndive.com/)
+- 
+## Project Photo
+
+![Project photo](img/project-photo.jpg)
