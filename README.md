@@ -18,3 +18,7 @@ This project is a collaborative data analysis project completed by our team. The
 - `collab-git-proj.Rproj` | The RStudio project file for this project.
 - `plots_un.R` | R script containing code related to creating plots and visualizations.
 - `README.md` | Provides overview of the project and describes the files in the repository.
+
+## Helpful R Resources
+
+- [ModernDive: Statistical Inference via Data Science](https://moderndive.com/)
