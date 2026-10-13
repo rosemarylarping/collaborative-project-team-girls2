@@ -20,7 +20,7 @@ All members should pull changes from main.
 
 ### 5.3:
 - [x] @mehrotrasakshi will push their changes and create a pull request
-- [ ] @decci027will review and approve the pull request on Git
+- [x] @decci027will review and approve the pull request on Git
 
 All members should pull changes from main. 
 
