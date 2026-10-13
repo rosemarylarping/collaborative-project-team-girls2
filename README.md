@@ -25,4 +25,4 @@ This project is a collaborative data analysis project completed by our team. The
 - 
 ## Project Photo
 
-![Project photo](img/project-photo.jpg)
+![Project photo](cow git hub.webp)
