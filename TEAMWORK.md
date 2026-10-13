@@ -16,11 +16,11 @@ All members should pull changes from main.
 #### 5.2: 
 - [x] @rosemarylarping: first 2 bullet points
 - [x] @soreyamoumouni: next 2 bullet points
-- [ ] @decci027 will do last bullet point (bullet list of files)
+- [x] @mehrotrasakshi will do last bullet point (bullet list of files)
 
 ### 5.3:
-- [ ] @decci027 will push their changes and create a pull request
-- [ ] @mehrotrasakshi will review and approve the pull request on Git
+- [x] @mehrotrasakshi will push their changes and create a pull request
+- [ ] @decci027will review and approve the pull request on Git
 
 All members should pull changes from main. 
 
