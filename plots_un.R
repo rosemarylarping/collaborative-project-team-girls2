@@ -18,4 +18,4 @@ un_member_states_2024 %>%
     ylab("Life Expectancy (years, 2022)") +
     labs(color = "Continent", shape = "Continent") +
     theme_minimal() +
-    ggtitle("Analysis of mtcars") #update this line
+    ggtitle("CHANGE THIS TITLE") #update this line
