@@ -1,29 +1,39 @@
 ## Division of Labor
 ### Exercise 3 (Teamwork Contract): Rosemary
+@rosemarylarping
+
 ### Exercise 4: 
-Soreya will create the README.md file and Sakshi will review and approve the pull request on Git. 
+- [x] @soreyamoumouni: create READMEMD
+- [x] @mehrotrasakshi will review and approve the pull request
+@soreyamoumouni ended up reviewing and approving the pull request due to some technical confusion
 
 All members should pull changes from main. 
 
 ### Exercise 5 (README)
 #### 5.1: Sakshi
+- [x] @mehrotrasakshi: completed 5.1
+
 #### 5.2: 
-Rosemary will do the first two bullet points, Soreya will do the second two bullet points, and Deki will do the last (bullet point of files).
+- [x] @rosemarylarping: first 2 bullet points
+- [x] @soreyamoumouni: next 2 bullet points
+- [x] @mehrotrasakshi will do last bullet point (bullet list of files)
 
 ### 5.3:
-Deki will push their changes and create a pull request, Sakshi will review and approve the pull request on Git. 
+- [x] @mehrotrasakshi will push their changes and create a pull request
+- [x] @decci027will review and approve the pull request on Git
 
 All members should pull changes from main. 
 
 ### Exercise 6 (Merge Conflicts)
-Member A: Sakshi
-Member B: Deki
-Member C: Rosemary 
+Member A: @mehrotrasakshi
+Member B: @decci027
+Member C: @rosemarylarping 
 
 ### Exercise 7 (Tidying Up)
-Soreya will check initially what we should have where. She will then communicate to us what we need to fix. 
+@soreyamoumouni will check initially what we should have where. She will then communicate to us what we need to fix. 
 
 ### Exercise 8 (Submit): Rosemary
+@rosemarylarping
 
 ## Timing
 Exercise 4: day of Tuesday (10/6)

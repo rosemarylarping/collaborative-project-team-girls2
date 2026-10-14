@@ -1,20 +1,17 @@
 # Collaborative Project
 
-The purpose of this project is to communicate and collaborate using GitHub, and use + GitHub workflow to complete a series of exercises.
+This is a collaborative data analysis project completed by our team. The purpose of this project is to practice communicating and collaborating using Git and GitHub, including working on separate branches, opening pull requests, reviewing each other's work, and resolving merge conflicts.
 
 ## Files
 
-1.  
+The following folders/files are in this repository:
 
-    # plots_un.R | This file include 
+* `.gitignore`: specifies files that Git should ignore
+* `collab-git-proj.Rproj`: the RStudio project file for this project
+* `plots_un.R`: R script containing code for creating plots and visualizations
+* `README.md`: overview of the project and a description of the files in the repository
+* `TEAMWORK.md`: our teamwork contract (division of labour, timing, and communication)
+* `img`: a folder for images, which contains:
+  + `cow git hub.webp`: the image used in our project files
 
-# Collaborative Project
-
-This project is a collaborative data analysis project completed by our team. The purpose of this project is to work together using R, Git, and GitHub to analyze data and practice collaboratiion with coding and the version control.
-
-## Files
-
-- `.gitignore` | Specifies files that Git should ignore.
-- `collab-git-proj.Rproj` | The RStudio project file for this project.
-- `plots_un.R` | R script containing code related to creating plots and visualizations.
-- `README.md` | Provides overview of the project and describes the files in the repository.
+![Project photo](img/cow%20git%20hub.webp)
